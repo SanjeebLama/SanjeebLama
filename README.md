@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjeeb Lama</h1>
-<h3 align="center">An aspiring software Engineer form Nepal</h3>
+<h3 align="center">An aspiring Software Engineer form Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeeblama" alt="sanjeeblama" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Tflite**
-
-- 💬 Ask me about **Vue,JS, Flutter**
 
 - 📫 How to reach me **sanjeeb.lama004@gmail.com**
 
@@ -24,4 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeblama&show_icons=true&locale=en&layout=compact" alt="sanjeeblama" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
+<p align= "right ">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
+
