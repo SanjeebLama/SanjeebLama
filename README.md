@@ -2,15 +2,13 @@
 <h3 align="center">An aspiring Software Engineer from Nepal</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
 
-<br/>
-
+  
 - 🌱 I’m currently learning **Flutter, Tflite**
 
 - 📫 How to reach me **sanjeeb.lama004@gmail.com**
 
 - ⚡ Fun fact **I'm starting company soon.**
-<br/>
-<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeblama&show_icons=true&locale=en&layout=compact" alt="sanjeeblama" /></p>
 
 <br/>
