@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sanjeeb Lama</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeeblama&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeeblama" /> </p>
+<h3 align="center">An aspiring software Engineer form Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeeblama" alt="sanjeeblama" /></a> </p>
 
-- 🔭 I’m currently working on [imporoving](myself)
+- 🌱 I’m currently learning **Flutter, Tflite**
 
-- 💬 Ask me about **Vue,**
+- 💬 Ask me about **Vue,JS, Flutter**
 
 - 📫 How to reach me **sanjeeb.lama004@gmail.com**
 
+- ⚡ Fun fact **I'm starting company soon.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjeeblama/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sanjeeblama/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjeeblama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjeeblama" height="30" width="40" /></a>
 <a href="https://fb.com/sanjeeblamaprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanjeeblamaprofile" height="30" width="40" /></a>
 <a href="https://medium.com/@dreamer.warrior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dreamer.warrior" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanjeeb_lama004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanjeeb_lama004" height="30" width="40" /></a>
