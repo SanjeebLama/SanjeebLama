@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanjeeb Lama</h1>
 <h3 align="center">An aspiring Software Engineer form Nepal</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeeblama" alt="sanjeeblama" /></a> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
 
 <br/>
 <br/>
+
 - 🌱 I’m currently learning **Flutter, Tflite**
 
 - 📫 How to reach me **sanjeeb.lama004@gmail.com**
