@@ -3,11 +3,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
 
   
-- 🌱 I’m currently learning **React JS, GSAP, and other JS libraries**
+- 🌱 I’m currently learning **Vue JS**
 
 - 📫 How to reach me **sanjeeb.lama004@gmail.com**
 
-- ⚡ Fun fact **I'm starting company soon.**
+- ⚡ Quick Reminder **Give yourself some time to build FOUNDATION**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeblama&show_icons=true&locale=en&layout=compact" alt="sanjeeblama" /></p>
 <br/>
