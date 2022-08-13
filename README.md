@@ -28,7 +28,9 @@ const sanjeeb = {
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeblama&show_icons=true&locale=en&layout=compact" alt="sanjeeblama" /></p>
 -->
 
+<p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you</b> 😊</em>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
       <a href="https://linkedin.com/in/sanjeeblama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjeeblama" height="30" width="40" /></a>
