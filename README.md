@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Sanjeeb%20Lama&fontSize=50&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20|%20Aspiring%20Entrepreneur%20&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Sanjeeb%20Lama&fontSize=30&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20|%20Aspiring%20Entrepreneur%20&descAlignY=51&descAlign=50)
 ![](https://komarev.com/ghpvc/?username=SanjeebLama&style=flat-square&label=PROFILE+VIEWS)
 
 ```javascript
@@ -21,11 +21,12 @@ const sanjeeb = {
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=sanjeeblama&repo=vuejs">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=sanjeeblama&repo=vuejs">
-</p> -->
+</p> 
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeblama&show_icons=true&locale=en&layout=compact" alt="sanjeeblama" /></p>
+-->
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
