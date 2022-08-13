@@ -27,12 +27,13 @@ const sanjeeb = {
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeblama&show_icons=true&locale=en&layout=compact" alt="sanjeeblama" /></p>
 -->
-<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you</b> 😊</em>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sanjeeblama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjeeblama" height="30" width="40" /></a>
-<a href="https://fb.com/sanjeeblamaprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanjeeblamaprofile" height="30" width="40" /></a>
-<a href="https://medium.com/@dreamer.warrior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dreamer.warrior" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanjeeb_lama004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanjeeb_lama004" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/sanjeeblama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjeeblama" height="30" width="40" /></a>
+      <a href="https://fb.com/sanjeeblamaprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanjeeblamaprofile" height="30" width="40" /></a>
+      <a href="https://medium.com/@dreamer.warrior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dreamer.warrior" height="30" width="40" /></a>
+      <a href="https://www.hackerrank.com/sanjeeb_lama004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanjeeb_lama004" height="30" width="40" /></a>
 </p>
 <br/>
