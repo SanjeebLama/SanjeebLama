@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sanjeeb Lama</h1>
-<h3 align="center">An aspiring Software Engineer from Nepal</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Sanjeeb%20Lama&fontSize=50&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20|%20Aspiring%20Entrepreneur%20&descAlignY=51&descAlign=50)
 
-  
-- 🌱 I’m currently learning **Vue JS**
-
-- 📫 How to reach me **sanjeeb.lama004@gmail.com**
-
-- ⚡ Quick Reminder **Give yourself some time to build FOUNDATION**
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjeeblama&show_icons=true&locale=en" alt="sanjeeblama" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeeblama&show_icons=true&locale=en&layout=compact" alt="sanjeeblama" /></p>
 <br/>
