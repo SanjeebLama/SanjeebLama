@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi,%20I'm%20Sanjeeb%20Lama&fontSize=30&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20|%20Aspiring%20Entrepreneur%20&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Hi,%20I'm%20Sanjeeb%20Lama&fontSize=30&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20|%20Aspiring%20Entrepreneur%20&descAlignY=51&descAlign=50)
 ![](https://komarev.com/ghpvc/?username=SanjeebLama&style=flat-square&label=PROFILE+VIEWS)
 
 ```javascript
