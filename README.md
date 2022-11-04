@@ -39,3 +39,6 @@ const sanjeeb = {
       <a href="https://www.hackerrank.com/sanjeeb_lama004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanjeeb_lama004" height="30" width="40" /></a>
 </p>
 <br/>
+
+[![@sanjeeblama's Holopin board](https://holopin.me/sanjeeblama)](https://holopin.io/@sanjeeblama)
+
