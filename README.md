@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Hi,%20I'm%20Sanjeeb%20Lama&fontSize=30&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20|%20Aspiring%20Entrepreneur%20&descAlignY=51&descAlign=50)
 ![](https://komarev.com/ghpvc/?username=SanjeebLama&style=flat-square&label=PROFILE+VIEWS)
 
+
+<!--
 ```javascript
 const sanjeeb = {
   pronouns: "he" | "him",
@@ -18,6 +20,32 @@ const sanjeeb = {
     }
 }
 ```
+-->
+
+```javascript
+const sanjeeb = {
+  pronouns: "he" | "him",
+  tShapedSkils: {
+    deepDisciplineExpertise: ["JavaScript", "React", "Tailwind CSS", "Node", "Go"],
+    
+    crossDisciplineExpertise: {
+      tools: ["Ruby on rails", "Vue", "Quasar", "Django"],
+      technologies: {
+        backEnd: ["Python", "Ruby", "PHP"],
+        mobileApp: {
+          hybrid: ["Flutter"],
+        },
+        devOps: ["AWS", "Docker🐳", "Git"],
+        databases: ["mongo", "MySql", "sqlite", "nosql"],
+        misc: ["Firebase", "Vercel", "Jest", "Java", "Swagger", "SCSS", "Cypress", "Postman"],
+      },
+    },
+  },
+};
+
+```
+
+
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=sanjeeblama&repo=vuejs">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=sanjeeblama&repo=vuejs">
@@ -29,8 +57,9 @@ const sanjeeb = {
 -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to chat.</b> 😊</em>
 </p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
       <a href="https://linkedin.com/in/sanjeeblama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjeeblama" height="30" width="40" /></a>
